@@ -1,1 +1,37 @@
 # UAS-Aplikasi-Belanja-Enchan
+# LAPORAN UJIAN AKHIR - PEMROGRAMAN MOBILE
+
+### 1. Identitas Mahasiswa
+* **Nama:** [IDUL FUTRA]
+* **NIM:** [2304411737]
+* **Kelas:** [5K GAB 3 RPL]
+
+### 2. Tema Aplikasi
+* **Nama Aplikasi:**  Aplikasi Belanja Enchan
+* **Aplikasi Rujukan:** [
+* **Link Rujukan:** [TEMPEL LINK PLAY STORE DI SINI]
+
+### 3. Fitur yang Dibuat (Checklist)
+* [x] **Otentikasi Firebase:** Login menggunakan Email/Password dan Google Sign-In.
+* [x] **Firebase Realtime Database:** Mendukung operasi CRUD (Create, Read, Update, Delete).
+* [x] **Implementasi UI:** Menggunakan Fragment (Home, Profile, Data), Intent, dan ListView.
+* [x] **Fitur Notifikasi:** Notifikasi muncul otomatis saat berhasil menambahkan data baru.
+
+### 4. Cara Menjalankan Aplikasi
+1. **Clone Repository:** Download atau Clone repository ini ke komputer Anda.
+2. **Buka Project:** Jalankan Android Studio, lalu pilih menu 'Open' dan arahkan ke folder project ini.
+3. **Koneksi Firebase:** Pastikan laptop terhubung internet agar Firebase Auth dan Realtime Database sinkron.
+4. **Build & Run:** Klik ikon 'Run' (Segitiga Hijau) untuk menjalankan aplikasi di Emulator atau HP Android.
+5. **Instal APK:** Anda juga bisa langsung menginstal file APK yang tersedia di link Google Drive di bawah.
+
+### 5. Screenshot Aplikasi (Minimal 6)
+*(Silakan unggah foto Anda ke folder project di GitHub, lalu tampilkan di sini)*
+1. **Halaman Login:** (Tempel Gambar)
+2. **Halaman List Data:** (Tempel Gambar)
+3. **Halaman Tambah Data:** (Tempel Gambar)
+4. **Halaman Edit Data:** (Tempel Gambar)
+5. **Halaman Detail Data:** (Tempel Gambar)
+6. **Halaman Notifikasi:** (Tempel Gambar)
+
+### 6. Link Download Luaran Wajib
+* **Link APK (Google Drive):** [TEMPEL LINK GOOGLE DRIVE APK ANDA DI SINI]
