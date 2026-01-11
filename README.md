@@ -31,7 +31,8 @@
 )
 
 3. **Halaman List Data:**
-4. (![WhatsApp Image 2026-01-11 at 20 07 03](https://github.com/user-attachments/assets/f3e387e8-65f4-4760-a5b6-6a9590764979)
+4. (![WhatsApp Image 2026-01-11 at 21 05 54](https://github.com/user-attachments/assets/11d7abc6-6162-4e47-89bb-92e5f7210167)
+)
 ) 
 
 5. **Halaman Tambah Data:**
