@@ -28,11 +28,15 @@
 *(Silakan unggah foto Anda ke folder project di GitHub, lalu tampilkan di sini)*
 1. **Halaman Login:** (![Uploading login..jpeg…]()
 )
-2. **Halaman List Data:** (Tempel Gambar)
-3. **Halaman Tambah Data:** (Tempel Gambar)
-4. **Halaman Edit Data:** (Tempel Gambar)
-5. **Halaman Detail Data:** (Tempel Gambar)
-6. **Halaman Notifikasi:** (Tempel Gambar)
+2. **Halaman List Data:** (![Uploading image.png…]()
+)
+3. **Halaman Tambah Data:** (![Uploading add...jpeg…]()
+)
+4. **Halaman Edit Data:** (![Uploading edit..jpeg…]()
+)
+5. **Halaman Detail Data:** ()
+6. **Halaman Notifikasi:** (![notifikasi](https://github.com/user-attachments/assets/d8a3cabf-cbf0-4ee1-87b7-1114a9d1f765)
+)
 
 ### 6. Link Download Luaran Wajib
 * **Link APK (Google Drive):** [TEMPEL LINK GOOGLE DRIVE APK ANDA DI SINI]
