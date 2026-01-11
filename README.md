@@ -7,9 +7,9 @@
 * **Kelas:** [5K GAB 3 RPL]
 
 ### 2. Tema Aplikasi
-* **Nama Aplikasi:**  Aplikasi Belanja Enchan
-* **Aplikasi Rujukan:** [
-* **Link Rujukan:** [TEMPEL LINK PLAY STORE DI SINI]
+* **Nama Aplikasi:**  Aplikasi Daftar Belanja Enchan Li Lite
+* **Aplikasi Rujukan:** [Aplikasi Daftar Belanja Enchan Li
+* **Link Rujukan:** [https://play.google.com/store/apps/details?id=com.vladlee.shoppinglist]
 
 ### 3. Fitur yang Dibuat (Checklist)
 * [x] **Otentikasi Firebase:** Login menggunakan Email/Password dan Google Sign-In.
@@ -26,7 +26,8 @@
 
 ### 5. Screenshot Aplikasi (Minimal 6)
 *(Silakan unggah foto Anda ke folder project di GitHub, lalu tampilkan di sini)*
-1. **Halaman Login:** (Tempel Gambar)
+1. **Halaman Login:** (![Uploading login..jpeg…]()
+)
 2. **Halaman List Data:** (Tempel Gambar)
 3. **Halaman Tambah Data:** (Tempel Gambar)
 4. **Halaman Edit Data:** (Tempel Gambar)
