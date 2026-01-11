@@ -27,27 +27,33 @@
 ### 5. Screenshot Aplikasi (Minimal 6)
 *(Silakan unggah foto Anda ke folder project di GitHub, lalu tampilkan di sini)*
 1. **Halaman Login:**
+   
  (![login](https://github.com/user-attachments/assets/6d6f5836-c259-48c8-9b8d-9399bc5d83e8)
 )
 
 2. **Halaman List Data:**
+   
  (![WhatsApp Image 2026-01-11 at 21 05 54](https://github.com/user-attachments/assets/11d7abc6-6162-4e47-89bb-92e5f7210167)
 )
 ) 
 
-3. **Halaman Tambah Data:**
+3.**Halaman Tambah Data:**
+   
 . (![add](https://github.com/user-attachments/assets/8c732e4b-4624-4dfe-836d-ba79966b4426)
 ) 
 
 4. **Halaman Edit Data:**
-. (![edit](https://github.com/user-attachments/assets/e34ce35d-21a1-4904-af60-80157abcecca)
+   
+ (![edit](https://github.com/user-attachments/assets/e34ce35d-21a1-4904-af60-80157abcecca)
 ) 
 
 5. **Halaman Detail Data:**
-10. (![detail](https://github.com/user-attachments/assets/216c1dc9-8fbe-4fa6-97d3-aff136d76c27)
+   
+ (![detail](https://github.com/user-attachments/assets/216c1dc9-8fbe-4fa6-97d3-aff136d76c27)
 ) 
 6. **Halaman Notifikasi:**
-12. (![notifikasi](https://github.com/user-attachments/assets/7284e29f-b9e3-401b-a04a-1d53916a19b4)
+
+ (![notifikasi](https://github.com/user-attachments/assets/7284e29f-b9e3-401b-a04a-1d53916a19b4)
 )
 
 
